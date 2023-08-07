@@ -1,0 +1,4 @@
+freinds=["Bhoobathi","Sathya Tharma","Sheik mohamed","Shobith","bhuvana","Shalini","Renisha"]
+print(freinds[0])
+my_detailils=[{"Name":"Sheik Mohamed","Place":"Eruvadi","hobbies":["Cricket","Football","Travelling"]},{"Name":"sobith","Place":"Kaliyakavilai","hobbies":["Playing","Movies","Traveilng"]},{"Name":"Sham","Place":"Monday_Market","hobbies":["Cricket","Traveling","Movies"]},{"Name":"Boobathi","Place":"Parvathipuram","hobbies":["Writing","Dancing","Traveling"]},{"Name":"Renisha","Place":"Marthandam","hobbies":["Music","Drawing","Gardening"]},{"Name":"Shalini","Place":"Kulachal","hobbies":["Dancing","Drawing","Book Reading"]},{"Name":"Bhuvana","Place":"VellaMadam","hobbies":["Craft","Gardening","Drawing"]}]
+print(my_detailils[3]["Place"])

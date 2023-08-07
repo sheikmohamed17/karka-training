@@ -1,0 +1,3 @@
+print(" My Resume")
+my_resume=[{"Name":"S.Sheik Mohamed","Email-ID":"safeeqameen@gmail.com","Mobile No":"9629276131","Soft Skills":["Emotional Intelligence","Time Management","Creativity"],"Hard Skills":["Programming Skills","Project Managemeent"],"Educational Skills":[{"SSLC:402","HSC:378","Degree with Complete year :B.Sc Computer Science in 2023"}],"Experience":"Fresher","Hobbies":["Creative Something","Learn Newthing"],"Personal Detailes":[{"Father Name :Syed Abdul Kader","Father Occupation :Driver","Gender: Male","Languages Known:Tamil,English","DOB :02/03/2003","Martial Status:UnMarried","Address:18/1 Mohideen Mosque South Street,Eruvadi,Tirunellveli,627103"}]}]
+print(my_resume)

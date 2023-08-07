@@ -1,0 +1,9 @@
+tamil=80
+english=90
+maths=78
+science=90
+social=89
+total=tamil+english+maths+science+social
+avg=total/5
+print("Total= ",total)
+print("Average= ",avg)
