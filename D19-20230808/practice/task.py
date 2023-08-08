@@ -12,4 +12,4 @@ for i in range(n*n,0,-1):
     if i%n==0:
         print("\n")
     print(i,end=" ")
-print(1)
+print(1,2)
