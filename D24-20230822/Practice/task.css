@@ -1,0 +1,41 @@
+header{
+    border: 2px solid black;
+    padding: 20px;
+    text-align: center;
+    background-color: aquamarine;
+}
+nav{
+    border: 2px solid black;
+    padding: 20px;
+    text-align: center;
+    background-color: sandybrown;
+}
+sec{
+    border: 2px solid black;
+    padding: 40px;
+    text-align: center;
+    background-color: darkkhaki;
+    display: block;
+}
+footer{
+    border: 2px solid black;
+    padding: 20px;
+    text-align: center;
+    background-color: darkseagreen;
+}
+.left{
+    border: 2px solid red;
+    display: inline;
+}
+.l1{
+    border: 2px solid black;
+    display: block-inline;
+}
+.l2{
+    border: 2px solid gold;
+    display: block-inline;
+}
+.right{
+    border:2px solid green;
+    display: inline;
+}
